@@ -26,13 +26,20 @@ can design, secure, and manage modern cloud infrastructure.
 | Zero Trust Security and IAP | [Build a Secure Google Cloud Network](https://github.com/Keniyahmc/gcp-labs/tree/main/associate-cloud-engineer/secure-cloud-networking) |
 | Cloud Functions and Pub/Sub | [Cloud Storage and IAM Foundations](https://github.com/Keniyahmc/gcp-labs/tree/main/associate-cloud-engineer/cloud-storage-and-iam-foundations) |
 | Kubernetes and Private Clusters | [Cloud Security Fundamentals](https://github.com/Keniyahmc/gcp-labs/tree/main/associate-cloud-engineer/cloud-security-fundamentals) |
-| Infrastructure as Code (Terraform) | Coming Soon |
+| SQL with BigQuery and Cloud SQL | [Develop Your Google Cloud Network](https://github.com/Keniyahmc/gcp-labs/tree/main/associate-cloud-engineer/develop-google-cloud-network) |
+| Kubernetes Deployment Strategies | [Develop Your Google Cloud Network](https://github.com/Keniyahmc/gcp-labs/tree/main/associate-cloud-engineer/develop-google-cloud-network) |
+| Infrastructure as Code with Terraform | [Build Infrastructure with Terraform](https://github.com/Keniyahmc/gcp-labs/tree/main/associate-cloud-engineer/terraform-infrastructure) |
+| Terraform Modules and Remote State | [Build Infrastructure with Terraform](https://github.com/Keniyahmc/gcp-labs/tree/main/associate-cloud-engineer/terraform-infrastructure) |
+| AWS Solutions Architecture | [AWS Labs](https://github.com/Keniyahmc/aws-labs) |
+| Azure Administration | [Azure Labs](https://github.com/Keniyahmc/azure-labs) |
 
 ## Tools
 
 ### Cloud
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/-gcloud%20CLI-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cloud%20Storage-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/-BigQuery-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
@@ -55,6 +62,7 @@ can design, secure, and manage modern cloud infrastructure.
 
 ### Development and DevOps
 <div>
+<img src="https://img.shields.io/badge/-Terraform-7B42BC?&style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
@@ -76,6 +84,9 @@ can design, secure, and manage modern cloud infrastructure.
 <img src="https://img.shields.io/badge/-Load%20Balancing%20and%20Traffic%20Management-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cloud%20Storage%20and%20IAM%20Foundations-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/-Build%20a%20Secure%20Google%20Cloud%20Network-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cloud%20Security%20Fundamentals-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/-Develop%20Your%20Google%20Cloud%20Network-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/-Build%20Infrastructure%20with%20Terraform-7B42BC?&style=for-the-badge&logo=terraform&logoColor=white" />
 </div>
 
 ## Education
@@ -88,7 +99,9 @@ Master of Science in Data Science<br>
 
 ## Projects
 
-| Project | Description |
-|---------|-------------|
-| [GCP Labs](https://github.com/Keniyahmc/gcp-labs) | Hands-on Google Cloud labs from my ACE certification program |
-| LAMP Stack Deployment | Deployed a full LAMP stack on GCP using Cloud Marketplace |
+| Project | Description | Status |
+|---------|-------------|--------|
+| [GCP Labs](https://github.com/Keniyahmc/gcp-labs) | Hands-on Google Cloud labs across 6 skill badges for ACE certification | ✅ Active |
+| [AWS Labs](https://github.com/Keniyahmc/aws-labs) | AWS Solutions Architect learning plan labs | 🔄 In Progress |
+| [Azure Labs](https://github.com/Keniyahmc/azure-labs) | Azure Administrator hands-on labs | 🔄 In Progress |
+| [Cloud Resume Challenge](https://github.com/Keniyahmc/cloud-resume-challenge) | Full stack cloud project built on GCP with Terraform and CI/CD | 🔄 Coming Soon |
